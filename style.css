@@ -98,9 +98,9 @@ header{
     padding: 40px;
 }
 
-.wrapper .form-box-login{
-    /*display: none;*/
-}
+/*.wrapper .form-box-login{
+    display: none; }*/
+
 .wrapper .form-box.register{
     position: absolute;
     transform: translate(400px);
